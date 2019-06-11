@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 title: [Hausi Müller for IEEE Division Delegate-Elect]
 description: [For IEEE Division Delegate-Elect/Director-Elect, 2020 IEEE Division Delegate/Director, 2021-2022 Division VIII (Computer)]
 
@@ -10,3 +10,6 @@ relative_links:
 include:
   - ACCOMPLISHMENTS.md
   - STATEMENT.md
+
+github:
+  is_project_page: false

@@ -1,6 +1,5 @@
 ---
 
-layout: page
 title: Statement
 permalink: /statement/
 ---
