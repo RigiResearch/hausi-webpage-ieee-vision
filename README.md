@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+Hausi Müller is Professor of Computer Science at University of Victoria, Canada. For the past decade, he served as Associate Dean Research for the Faculty of Engineering. With his research group, he collaborates extensively with industry as an international expert in software engineering, adaptive systems, intelligent cyber physical systems, and quantum computing. He published over 250 papers and co-organized many conferences and workshops in these research fields, including Dagstuhl and Shonan Meetings in Germany and Japan on Software Engineering for Self-Adaptive Systems (2010), Engineering Autonomic Systems (2013) and Software Engineering for Cyber Physical Systems (2017). He was the founding Director of UVic’s accredited Bachelor of Software Engineering degree program. Müller is a Fellow of the Canadian Academy of Engineering. Müller received a BS in electrical engineering from ETH Zürich and MS and PhD degrees in computer science from Rice University. He sings, plays guitar, and enjoys hiking and skiing.
 
-You can use the [editor on GitHub](https://github.com/RigiResearch/hausi-webpage-ieee-vision/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
