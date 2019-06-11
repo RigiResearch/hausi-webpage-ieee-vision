@@ -1,3 +1,10 @@
+---
+
+layout: page
+title: Accomplishments
+permalink: /accomplishments/
+---
+
 ## Accomplishments
 - Member, IEEE Computer Society (CS), Communications Society, Control Systems Society, Vehicular Technology Society, Technology and Engineering Management Society
 - Co-Chair, IEEE Future Directions Quantum Initiative, 2019

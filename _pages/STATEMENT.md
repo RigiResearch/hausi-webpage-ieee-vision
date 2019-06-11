@@ -1,3 +1,10 @@
+---
+
+layout: page
+title: Statement
+permalink: /statement/
+---
+
 ## Statement
 IEEE is uniquely positioned as a global leader in science, technology, and innovation. IEEE must continue to earn the trust of professionals and provide extensive opportunities for professional networking, career development, and life-long learning. 
 
