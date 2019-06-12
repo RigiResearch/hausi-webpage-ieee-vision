@@ -2,7 +2,7 @@
     <img src ="/images/hausi.jpg">
 </p>
 
-# About
+# Biography
 
 Hausi Müller is Professor of Computer Science at the University of Victoria, Canada. For the past decade, he served as Associate Dean Research for the Faculty of Engineering. With his research group, he collaborates extensively with industry as an international expert in software engineering, adaptive systems, intelligent cyber physical systems, and quantum computing. He published over 250 papers and co-organized many conferences and workshops in these research fields, including Dagstuhl and Shonan Meetings in Germany and Japan on Software Engineering for Self-Adaptive Systems (2010), Engineering Autonomic Systems (2013) and Software Engineering for Cyber Physical Systems (2017). He was the founding Director of UVic’s accredited Bachelor of Software Engineering degree program. Müller is a Fellow of the Canadian Academy of Engineering. Müller received a BS in electrical engineering from ETH Zürich and MS and PhD degrees in computer science from Rice University. He sings, plays guitar, and enjoys hiking and skiing.
 
@@ -14,7 +14,7 @@ With its societies, committees and chapters, IEEE is an outstanding home for pro
 With my extensive experience as an IEEE volunteer, and if elected as Division Director representing Computer Society, I would provide valuable guidance for strategies and tactics for effective strategic planning, financial accountability of boards and committees. As an IEEE volunteer, I aim to inspire future generations of engineers and scientists through leadership and contributions in IEEE committees. I am deeply committed to advancing equity, diversity and inclusion (EDI) at all IEEE levels.
 
 
-# Accomplishments and activities
+# IEEE Accomplishments and Activities
 (A’80-M’82-SM’13)
 
 - Member, IEEE Computer Society (CS), Communications Society, Control Systems Society, Vehicular Technology Society, Technology and Engineering Management Society
@@ -30,7 +30,7 @@ With my extensive experience as an IEEE volunteer, and if elected as Division Di
 - Edited over 25 conference proceedings and books
 - Published over 250 papers; Google citations: https://tinyurl.com/google-scholar-muller 
 
-# Key Accomplishments
+# IEEE Key Accomplishments
 - **BoG, ExCom**: I served on CS Board of Governors (2015-2017) and CS Executive Committee (2015-2018) and ran twice for CS President (2016-2017), thereby gaining deep insights into society governance — decision-making, financial sustainability, and grooming the next generation of leaders. 
 - **T&C Board**: I served for three years as Vice President of CS T&C Board (2016-2018) looking after 250+ conferences and 31 technical committees. Key T&C goals: expand the portfolio of technical committees and conferences; increase conference revenues; develop and implement an EDI (equity, diversity and inclusion) strategy and statement for CS conferences.
 - **TCSE**: As Chair of IEEE TCSE, I lead this council to expand its conference portfolio from approximately 20 to over 30 conferences and created highly regarded 
