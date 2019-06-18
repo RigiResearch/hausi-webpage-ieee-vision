@@ -2042,6 +2042,7 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		image-orientation: from-image;
 	}
 
 		.image:before {
@@ -2101,6 +2102,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.35em;
 			display: block;
+			image-orientation: from-image;
 		}
 
 		.image.left {
@@ -2121,6 +2123,7 @@ input, select, textarea {
 
 			.image.left img, .image.right img {
 				width: 100%;
+				image-orientation: from-image;
 			}
 
 		.image.fit {
